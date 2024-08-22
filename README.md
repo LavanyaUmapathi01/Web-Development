@@ -37,15 +37,26 @@ This project is a fully responsive and creatively designed website built using H
 📂 Folder Structure
 bash
 Copy code
+
+
+
 /king-sukh-guest-house-redesign
+
+
 │
 ├── index.html           # Main HTML file
+
+
 ├── css/
+
 │   ├── styles.css       # Main stylesheet
+
 │
 ├── js/                  # JavaScript files (if any)
+
 │
 ├── images/              # Folder for images used in the website
+
 │
 └── README.md            # This README file
 
