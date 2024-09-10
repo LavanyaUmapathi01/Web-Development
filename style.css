@@ -73,7 +73,7 @@ nav {
 
 nav .logo {
     display: flex;
-    color: #f72585;
+    color: white;
     font-size: 20px;
     align-items: center;
 }
@@ -354,7 +354,7 @@ nav ul li {
 .guest-satisfaction {
     text-align: center;
     padding: 10px 4px;
-    background-color: #4361ee;
+    background-color: #7299b6;
 }
 @keyframes slideInFromLeft {
     0% {
@@ -388,7 +388,7 @@ nav ul li {
 
 .metric h2 {
     font-size: 36px;
-    color: #f72585;
+    color: white;
 }
 
 .metric p {
@@ -580,7 +580,7 @@ nav ul li {
 }
 /* Banner Section */
 .banner-section {
-    background-color: #7209b7; /* Background color from your palette */
+    background-color:#7299b6; /* Background color from your palette */
     padding: 20px;
     text-align: center;
     display: flex;
@@ -755,7 +755,7 @@ nav ul li {
 
 footer{
     width: 100%;
-    background:#4361ee;
+    background:#7299b6;
     display: flex;
     position: relative;
     min-height: 100px;
@@ -793,11 +793,11 @@ footer .social_icon li a:hover
 .footer-bottom {
     text-align: center;
     padding-top: 20px;
-    border-top: 1px solid #333333;
+    border-top: 1px solid white;
     margin-top: 20px;
 }
 
 .footer-bottom p {
-    color: #aaaaaa;
+    color: white;
     margin: 0;
 }
